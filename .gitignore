@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+
+.dylorisk_cache_v2.json
+dylorisk_internal.log
+parsed_logs.csv
+
+reports/
+logs folder for analysis/
