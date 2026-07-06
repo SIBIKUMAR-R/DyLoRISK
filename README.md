@@ -16,7 +16,19 @@ DyLoRISK (Dynamic Log Risk and Instability State-Space Framework) is a log analy
 The framework supports both single-file and batch log analysis through a graphical user interface (GUI) and automatically generates detailed PDF reports and visualization dashboards.
 
 ---
+## Screenshots
 
+### Folder Analysis
+
+![Folder Analysis](assets/folder-analysis.png)
+
+### Generated Report
+
+![Report](assets/report.png)
+
+### System Architecture
+
+![Architecture](assets/architecture.png)
 ## Features
 
 - 📄 Single-file and folder-based log analysis
